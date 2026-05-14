@@ -121,8 +121,8 @@ Since casual riders take longer trips, introduce a rewards program where longer 
 ## 📬 Contact
 
 **Robert Johnson**
-- GitHub: [your-github-username]
-- LinkedIn: [your-linkedin-url]
+- GitHub: raj469-doit
+- LinkedIn: linkedin.com/in/robert-johnson-sdet 
 
 ---
 
